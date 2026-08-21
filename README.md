@@ -6,7 +6,7 @@
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komyor09)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komyor_06)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komyor09)
 
 </div>
@@ -15,16 +15,17 @@
 
 ## 👋 About Me
 
-Junior/aspiring **Python Backend Developer** from Tajikistan, currently building full-stack (PHP/Laravel and Angular/TypeScript) while moving toward a backend-focused, Python-first path (Django, DRF, FastAPI).
+Junior/aspiring **Python Backend Developer** from Tajikistan, currently building full-stack (PHP/Laravel and Angular/TypeScript) while moving toward a backend-focused, Python-first path (Django, DRF, FastAPI). I also work as a **Scrum Master** alongside development — running sprint planning, tracking capacity, managing the backlog/tickets, and keeping an eye on the burndown.
 
-I like understanding a system end-to-end — database design, backend logic, and the UI on top — rather than only writing isolated functions. I care about **Clean Architecture**, **Clean Code**, and secure, maintainable design (OWASP/NIST-aware, SSDLC mindset), even on small projects.
+I like understanding a system end-to-end — database design, backend logic, and the UI on top — rather than only writing isolated functions. I care about **Clean Architecture**, **Clean Code**, and secure, maintainable design (OWASP/NIST-aware, SSDLC mindset), even on small projects. That same structured mindset carries over into how I run a sprint — clear scope, honest capacity, visible progress.
 
 ```js
 const komyor = {
     location: "Tajikistan 🇹🇯",
-    role: "Python Backend Developer (in progress)",
+    roles: ["Python Backend Developer (in progress)", "Scrum Master"],
     currentStack: ["Python", "Laravel/PHP", "Angular/TypeScript"],
     learning: ["Django", "Django REST Framework", "FastAPI", "Docker", "CI/CD"],
+    agile: ["Sprint Planning", "Backlog Grooming", "Capacity Planning", "Burndown Tracking", "Retrospectives"],
     interests: ["Clean Architecture", "System Design", "DevSecOps", "AI-assisted products"],
     languages: ["Russian", "Tajik", "English"]
 };
@@ -109,20 +110,34 @@ A PySide6 desktop app that automatically detects and crops portrait photos from 
 
 <br>
 
+## 🏃 Agile / Scrum Master
+
+Alongside development, I run Scrum for our team — not just as a title, but hands-on with the day-to-day mechanics:
+
+| Area | What I do |
+|---|---|
+| **Sprint Planning** | Scope definition, story breakdown, effort estimation |
+| **Capacity Planning** | Tracking team availability vs. committed work |
+| **Backlog & Tickets** | Grooming, prioritization, ticket hygiene |
+| **Burndown Tracking** | Monitoring progress, flagging risk early |
+| **Retrospectives** | Facilitating, capturing actionable improvements |
+
+`Scrum` `Kanban` `Sprint Planning` `Backlog Grooming` `Capacity Planning` `Burndown Charts` `Retrospectives` `Jira` `Story Points`
+
+<br>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=komyor09&show_icons=true&hide_border=true&theme=default&text_color=333&title_color=222&icon_color=3B82F6&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komyor09&layout=compact&hide_border=true&theme=default&text_color=333&title_color=222&langs_count=8" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=komyor09&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3B82F6&icon_color=3B82F6&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komyor09&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3B82F6&langs_count=8" width="35%" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=komyor09&hide_border=true&theme=default&background=FFFFFF&stroke=CCCCCC&ring=3B82F6&fire=3B82F6&currStreakLabel=222222" width="70%" />
+<img src="https://streak-stats.demolab.com?user=komyor09&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="70%" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=komyor09&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers" width="80%" />
-</div>
+> ⚠️ The public `github-readme-stats.vercel.app` instance has been unreliable for everyone the past couple of months (confirmed — it's an [open, widely-reported issue](https://github.com/anuraghazra/github-readme-stats/issues/4680) on the project itself, not specific to this profile). If cards keep showing "Failed to retrieve..." after publishing and a few refreshes, the fix isn't tweaking colors — it's either removing these cards or self-hosting your own instance (free, takes ~5 min — fork the repo, deploy to your own Vercel, swap the URL). Happy to walk you through that if you want it rock-solid.
 
 <br>
 
